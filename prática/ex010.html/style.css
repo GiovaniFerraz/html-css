@@ -1,0 +1,53 @@
+@charset   "UTF-8";
+
+
+header {
+    background-image: linear-gradient(to bottom, rgb(114, 223, 147), rgb(43, 73, 52));
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: white;
+    padding: 6px;
+}
+
+h1 {
+    color: white;
+}
+h2 {
+    margin-top: 0px;
+    background-color: rgba(124, 204, 175, 0.281);
+    color: rgb(16, 107, 43);
+}
+
+.pheader {
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+main {
+    background-color:  rgb(124, 204, 174);
+    margin-top: 0px;
+}
+
+section {
+   margin-left: 80px;
+   margin-right: 80px;
+   background-color: white;
+   padding: 6px;
+}
+
+aside {
+   background-color: rgb(113, 241, 151);
+}
+
+footer {
+    background-color: rgb(9, 61, 25);
+}
+
+h3 {
+    background-color: rgb(16, 107, 43);
+    color: white;
+}
+
+.imagem {
+    text-align: center;
+}
